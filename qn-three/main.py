@@ -1,7 +1,7 @@
 import csv
 import json
 
-driver_reg = csv.reader(open('sample-data/one_driver_registration.csv', newline=''),
+driver_reg = csv.reader(open('/work/sample-data/one_driver_registration.csv', newline=''),
                         delimiter=',', quotechar='"')
 
 attributes = ['id', 'date_created', 'date_last_modified', 'active_date', 'name',
