@@ -1,6 +1,3 @@
-# gjk
-Data processing scripts.
-
 ## Question 1
 Query can be found here.
 
