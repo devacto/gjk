@@ -2,7 +2,11 @@
 Data processing scripts.
 
 ## Question 1
-Test question 1.
+Query can be found here.
+
+Screenshot below shows the result when the query is being submitted to BigQuery.
+
+![bigquery_result](https://raw.githubusercontent.com/devacto/gjk/master/docs/images/big_query_screenshot.png)
 
 ## Question 2
 Test question 2.
