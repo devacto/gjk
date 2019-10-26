@@ -11,15 +11,19 @@ Test question 2.
 Test Question 3.
 
 ## Question 4
-```
-docker-compose -f qn-four/docker-compose.yml up
-```
-
-```
-docker-compose -f qn-four/docker-compose.yml down
-```
-
 Screenshot from Apache Airflow that shows CSV conversion scheduled to be run on
 a daily basis, and its status.
 
 ![airflow_dag_details](https://raw.githubusercontent.com/devacto/gjk/master/docs/images/airflow_dag_details.png)
+
+To start the Docker containers that starts up Airflow, use the command below:
+
+```
+docker-compose -f qn-four/docker-compose.yml up
+```
+
+To stop and remove the Docker containers, use the command below:
+
+```
+docker-compose -f qn-four/docker-compose.yml down
+```
