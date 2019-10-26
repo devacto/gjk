@@ -1,5 +1,5 @@
 ## Question 1
-Query can be found here.
+Query can be found [here](https://github.com/devacto/gjk/blob/qn-one/query.sql).
 
 Screenshot below shows the result when the query is being submitted to BigQuery.
 
@@ -12,6 +12,8 @@ Test question 2.
 Test Question 3.
 
 ## Question 4
+The Docker Compose file can be found [here](https://github.com/devacto/gjk/blob/qn-four/docker-compose.yml).
+
 Screenshot from Apache Airflow that shows CSV conversion scheduled to be run on
 a daily basis, and its status.
 
