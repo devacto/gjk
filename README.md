@@ -13,7 +13,7 @@ Backfilling can be done using `catchup = True` parameter in the DAG definition.
 Screenshot below shows how start date (yesterday) and end date (today) are
 passed in as parameters.
 
-![bigquery_bash_operator](https://raw.githubusercontent.com/devacto/gjk/master/docs/images/bigquery_bash_operator.png | width=100)
+![](https://raw.githubusercontent.com/devacto/gjk/master/docs/images/bigquery_bash_operator.png | width=100)
 
 # Question 3
 The Python script can be found [here](https://github.com/devacto/gjk/blob/qn-three/main.py).
