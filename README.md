@@ -46,6 +46,8 @@ The major change will be to use Kafka Streams and KSQL to do real-time processin
 
 This way, data in BigQuery data warehouse can be made near-real-time instead of several hours late because of batch processing.
 
+For an implementation of this pipeline, you may check out [this repository](https://github.com/devacto/ms).
+
 Batch processing infrastructure is still present for data exploration purpose.
 
 Data redaction can also be done in real-time using KSQL.
