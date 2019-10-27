@@ -10,8 +10,7 @@ An example Airflow pipeline definition can be found [here]().
 
 Backfilling can be done using `catchup = True` parameter in the DAG definition.
 
-Screenshot below shows how start date (yesterday) and end date (today) are
-passed in as parameters.
+Screenshot below shows how start date (yesterday) and end date (today) are passed in as parameters.
 
 <img src="https://raw.githubusercontent.com/devacto/gjk/master/docs/images/bigquery_bash_operator.png" width="500" />
 
