@@ -48,3 +48,8 @@ The major change will be to use Kafka Streams and KSQL to do real-time processin
 This way, data in BigQuery data warehouse can be made near-real-time instead of several hours late because of batch processing.
 
 Batch processing infrastructure is still present for data exploration purpose.
+
+Data redaction can also be done in real-time using KSQL.
+
+## Question 6
+Answers for Question 6 can be found [here](https://docs.google.com/document/d/12pVDFa10Ho8AC-NdooQ3umCjK0mQ6QMsjq-DKSFj33M/edit?usp=sharing).
