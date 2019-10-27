@@ -6,7 +6,7 @@ Screenshot below shows the result when the query is being submitted to BigQuery.
 ![bigquery_result](https://raw.githubusercontent.com/devacto/gjk/master/docs/images/big_query_screenshot.png)
 
 ## Question 2
-An example Airflow pipeline definition can be found [here]().
+Airflow pipeline definition can be found [here]().
 
 Backfilling can be done using `catchup = True` parameter in the DAG definition.
 
